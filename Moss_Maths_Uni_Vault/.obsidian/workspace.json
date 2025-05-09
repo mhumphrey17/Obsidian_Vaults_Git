@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Topic_Notes/Ch02_Determinants/Determinants and Inverses.md",
+                "file": "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Determinants and Inverses"
+              "title": "Y1_S2_Algebra_MOC"
             }
           }
         ]
@@ -168,10 +168,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "ccd21693e779d267",
+  "active": "915d57025de6e176",
   "lastOpenFiles": [
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Topic_Notes/Ch02_Determinants/Determinants and Inverses.md",
     "Y1/00_Meta/README.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Meta/AI_README.md",
+    "AI_README.md",
     "Y1/Y1_S2/Y1_S2_Algebra",
     "Y1/Y1_S2",
     "Y1",
@@ -198,7 +199,6 @@
     "_Templates/Atomic_Note.md",
     "_Templates/Problem.md",
     "_Templates/Solution.md",
-    "_Templates/Topic_Note.md",
     "Github_Obsidian_Vaults/Algebra_S2_Vault",
     "Github_Obsidian_Vaults",
     "Untitled.canvas",
