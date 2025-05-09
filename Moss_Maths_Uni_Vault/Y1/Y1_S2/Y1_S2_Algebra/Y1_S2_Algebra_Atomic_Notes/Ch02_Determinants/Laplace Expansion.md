@@ -1,9 +1,8 @@
 ---
 title: "Laplace Expansion"
 aliases: ["cofactor expansion", "laplace expansion", "determinant expansion"]
-tags: ["Y1_Alg", "Y1_Alg_s2_ch02_04", "concept", "determinant", "matrix"]
-related_concepts: ["Determinant", "Minor", "Cofactor", "Adjugate"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "concept", "determinant", "matrix", "minor", "cofactor", "adjugate-matrix", "cramer-s-rule", "linear-algebra", "matrix-theory"]
+related_concepts: ["Determinant", "Minor", "Cofactor", "Adjugate Matrix", "Cramer's Rule", "Field"]
 ---
 
 # Laplace Expansion

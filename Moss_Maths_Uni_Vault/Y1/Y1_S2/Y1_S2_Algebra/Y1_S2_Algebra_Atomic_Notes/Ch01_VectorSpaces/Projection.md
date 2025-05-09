@@ -1,9 +1,8 @@
 ---
 title: "Projection"
-aliases: ["Projection Mapping", "Orthogonal Projection", "Linear Projection"]
-tags: ["concept", "algebra-s2", "linear-transformation"]
-related_concepts: ["Linear Map", "Subspace", "Kernel", "Image"]
-date_created: 2025-05-09
+aliases: ["Projection Mapping", "Linear Projection"] 
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-4", "concept", "linear-map", "subspace", "kernel", "image", "idempotence", "orthogonal-projection", "oblique-projection", "vector-space", "linear-algebra"]
+related_concepts: ["Linear Map", "Subspace", "Kernel", "Image", "Orthogonal Projection", "Vector Space"]
 ---
 
 # Projection

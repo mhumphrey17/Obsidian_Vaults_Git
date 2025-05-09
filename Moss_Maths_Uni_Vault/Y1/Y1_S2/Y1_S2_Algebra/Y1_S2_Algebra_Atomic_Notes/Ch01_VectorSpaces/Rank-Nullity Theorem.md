@@ -1,10 +1,8 @@
 ---
 title: "Rank-Nullity Theorem"
 aliases: ["Dimension Theorem", "Fundamental Theorem of Linear Maps"]
-tags: [concept, algebra-s2, ch-1, sec-1-9]
-related_concepts: ["Linear Map", "Rank", "Nullity", "Kernel", "Image", "Dimension"]
-formula: "\\operatorname{rank} \\phi + \\operatorname{null} \\phi = \\dim V"
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "linear-map", "rank", "nullity", "kernel", "image", "dimension", "isomorphism", "vector-space", "linear-algebra"]
+related_concepts: ["Linear Map", "Rank", "Nullity", "Kernel", "Image", "Dimension", "Vector Space", "Isomorphism", "Field"]
 ---
 
 # Rank-Nullity Theorem

@@ -1,10 +1,8 @@
 ---
 title: "Rank"
 aliases: ["Rank of a Linear Map", "Rank of a Matrix"]
-tags: [concept, algebra-s2, ch-1, sec-1-8]
-related_concepts: ["Linear Map", "Image", "Matrix", "Nullity", "Rank-Nullity Theorem"]
-formula: "\\operatorname{rank} \\phi = \\dim(\\operatorname{Im} \\phi)"
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "linear-map", "image", "matrix", "nullity", "rank-nullity-theorem", "dimension", "basis", "linear-algebra", "vector-space"]
+related_concepts: ["Linear Map", "Image", "Matrix", "Nullity", "Rank-Nullity Theorem", "Dimension", "Vector Space", "Basis", "Field"]
 ---
 
 # Rank

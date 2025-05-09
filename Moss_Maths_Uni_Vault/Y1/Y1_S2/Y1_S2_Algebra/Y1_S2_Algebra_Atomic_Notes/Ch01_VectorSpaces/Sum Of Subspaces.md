@@ -1,10 +1,8 @@
 ---
 title: "Sum of Subspaces"
 aliases: ["Subspace Sum"]
-tags: [concept, algebra-s2, ch-1, sec-1-9]
-related_concepts: ["Subspace", "Direct Sum", "Vector Space", "Linear Combination", "Dimension"]
-formula: "U + W = \\{u + w : u \\in U, w \\in W\\}"
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "subspace", "direct-sum", "vector-space", "linear-combination", "dimension", "span", "rank-nullity-theorem", "linear-algebra"]
+related_concepts: ["Subspace", "Direct Sum", "Vector Space", "Linear Combination", "Dimension", "Span", "Rank-Nullity Theorem", "Field"]
 ---
 
 # Sum of Subspaces

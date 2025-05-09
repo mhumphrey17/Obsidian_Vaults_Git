@@ -1,10 +1,8 @@
 ---
 title: "Dimension"
 aliases: ["Dimensionality", "dim"]
-tags: [concept, algebra-s2, ch-1, sec-1-5]
-related_concepts: ["Vector Space", "Basis", "Linear Independence", "Spanning Set", "Rank-Nullity Theorem"]
-formula: "\\dim V = \\text{number of vectors in any basis of } V"
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "basis", "vector-space", "linear-independence", "spanning-set", "rank-nullity-theorem", "subspace", "isomorphism", "linear-map", "linear-algebra"]
+related_concepts: ["Vector Space", "Basis", "Linear Independence", "Spanning Set", "Rank-Nullity Theorem", "Subspace", "Isomorphism", "Linear Map", "Field"]
 ---
 
 # Dimension

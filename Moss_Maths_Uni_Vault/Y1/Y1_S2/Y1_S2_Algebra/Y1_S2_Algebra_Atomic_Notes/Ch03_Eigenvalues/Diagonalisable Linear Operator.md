@@ -1,8 +1,8 @@
 ---
 title: "Diagonalisable Linear Operator"
 aliases: ["Diagonalizable Linear Operator", "Diagonalisable Operator"]
-tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept"]
-related_concepts: ["Linear Operator", "Eigenbasis", "Matrix Representation", "Diagonalisation"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept", "linear-operator", "eigenbasis", "matrix-representation", "diagonalisation", "eigenvalue", "eigenspace", "algebraic-multiplicity", "geometric-multiplicity", "linear-algebra"]
+related_concepts: ["Linear Operator", "Eigenbasis", "Matrix Representation", "Diagonalisation", "Eigenvalue", "Eigenspace", "Algebraic Multiplicity", "Geometric Multiplicity", "Field", "Vector Space"]
 ---
 
 # Diagonalisable Linear Operator

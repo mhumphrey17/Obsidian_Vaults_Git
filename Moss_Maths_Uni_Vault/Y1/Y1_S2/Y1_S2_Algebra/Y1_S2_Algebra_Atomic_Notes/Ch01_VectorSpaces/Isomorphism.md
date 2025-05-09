@@ -1,10 +1,8 @@
 ---
 title: "Isomorphism"
 aliases: ["Linear Isomorphism", "Vector Space Isomorphism"]
-tags: [concept, algebra-s2, ch-1, sec-1-3]
-related_concepts: ["Linear Map", "Kernel", "Image", "Dimension", "Basis"]
-formula: "V \\cong W \\iff \\exists \\text{ bijective linear map } \\phi: V \\rightarrow W"
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "linear-map", "kernel", "image", "dimension", "basis", "bijective", "injective", "surjective", "coordinate-vector", "linear-algebra", "vector-space"]
+related_concepts: ["Linear Map", "Kernel", "Image", "Dimension", "Basis", "Vector Space", "Coordinate Vector", "Injective Map", "Surjective Map"]
 ---
 
 # Isomorphism

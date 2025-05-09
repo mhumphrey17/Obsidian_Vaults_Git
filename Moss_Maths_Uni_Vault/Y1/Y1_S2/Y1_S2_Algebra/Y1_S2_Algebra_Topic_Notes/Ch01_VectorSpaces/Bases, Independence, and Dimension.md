@@ -1,9 +1,8 @@
 ---
 title: "Bases, Independence, and Dimension"
 aliases: ["Topic: Bases", "Chapter 1.4-1.5 Summary"]
-tags: [topic, algebra-s2, ch-1, sec-1-4, sec-1-5]
-concepts: ["Linear Independence", "Spanning Set", "Basis", "Dimension", "Coordinate Vector", "Minimal Spanning List", "Maximal Linearly Independent List"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "topic", "basis", "linear-independence", "dimension", "spanning-set", "coordinate-vector", "vector-space", "linear-algebra"]
+related_concepts: ["Linear Independence", "Spanning Set", "Basis", "Dimension", "Coordinate Vector", "Minimal Spanning List", "Maximal Linearly Independent List", "Vector Space", "Field"]
 ---
 
 # Bases, Independence, and Dimension

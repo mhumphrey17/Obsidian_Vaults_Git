@@ -1,10 +1,8 @@
 ---
 title: "Matrix Representation"
 aliases: ["Representing Linear Maps by Matrices", "Matrix of a Linear Map"]
-tags: [concept, algebra-s2, ch-1, sec-1-6]
-related_concepts: ["Linear Map", "Basis", "Coordinate Vector", "Change of Basis", "Matrix"]
-formula: "\\psi(v_j) = \\sum_{i=1}^{m} a_{ij}w_i"
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "linear-map", "basis", "coordinate-vector", "change-of-basis", "matrix", "kernel", "image", "rank", "nullity", "linear-operator", "similarity-transformation", "linear-algebra", "vector-space"]
+related_concepts: ["Linear Map", "Basis", "Coordinate Vector", "Change of Basis Matrix", "Matrix", "Kernel", "Image", "Rank", "Nullity", "Linear Operator", "Similar Matrices", "Vector Space", "Field"]
 ---
 
 # Matrix Representation

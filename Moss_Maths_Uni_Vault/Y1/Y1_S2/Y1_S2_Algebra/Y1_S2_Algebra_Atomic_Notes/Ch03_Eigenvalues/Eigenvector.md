@@ -1,8 +1,8 @@
 ---
 title: "Eigenvector"
 aliases: ["Eigenvectors", "λ-eigenvector", "Characteristic Vector"]
-tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept"]
-related_concepts: ["Eigenvalue", "Eigenspace", "Linear Independence", "Diagonalisation"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept", "eigenvalue", "eigenspace", "linear-independence", "diagonalisation", "eigenbasis", "geometric-multiplicity", "linear-algebra", "matrix-theory"]
+related_concepts: ["Eigenvalue", "Eigenspace", "Linear Independence", "Diagonalisation", "Eigenbasis", "Geometric Multiplicity", "Field"]
 ---
 
 # Eigenvector

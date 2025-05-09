@@ -1,8 +1,8 @@
 ---
 title: "Eigenvalue"
 aliases: ["Eigenvalues", "λ", "lambda", "Characteristic Value"]
-tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept"]
-related_concepts: ["Eigenvector", "Characteristic Polynomial", "Linear Operator", "Matrix", "Diagonalisation"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept", "eigenvector", "characteristic-polynomial", "linear-operator", "matrix", "diagonalisation", "algebraic-multiplicity", "geometric-multiplicity", "linear-algebra", "matrix-theory"]
+related_concepts: ["Eigenvector", "Characteristic Polynomial", "Linear Operator", "Matrix", "Diagonalisation", "Algebraic Multiplicity", "Geometric Multiplicity", "Field"]
 ---
 
 # Eigenvalue

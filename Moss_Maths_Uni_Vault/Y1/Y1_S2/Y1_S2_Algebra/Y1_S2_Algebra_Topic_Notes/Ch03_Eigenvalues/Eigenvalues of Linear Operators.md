@@ -1,8 +1,8 @@
 ---
 title: "Eigenvalues of Linear Operators"
 aliases: ["Topic: Linear Operator Eigenvalues", "Section 3.2 Summary"]
-tags: ["topic", "algebra-s2", "ch-3", "sec-3-2"]
-concepts: ["Linear Operator", "Eigenvalue", "Lambda-Eigenspace", "Characteristic Polynomial", "Basis Independence"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "topic", "Y1_S2_Algebra_ch-3_sec-3-2", "linear-operator", "eigenvalue", "lambda-eigenspace", "characteristic-polynomial", "basis-independence", "eigenvector", "matrix-representation", "similar-matrices", "kernel", "subspace", "geometric-multiplicity", "diagonalisation", "vector-space", "linear-algebra"]
+related_concepts: ["Linear Operator", "Eigenvalue", "Lambda-Eigenspace", "Characteristic Polynomial", "Basis Independence", "Eigenvector", "Matrix Representation", "Similar Matrices", "Kernel", "Subspace", "Geometric Multiplicity", "Diagonalisation", "Vector Space", "Field"]
 ---
 
 # Eigenvalues of Linear Operators

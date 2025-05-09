@@ -1,9 +1,8 @@
 ---
 title: "Adjugate Matrix"
 aliases: ["adjugate", "classical adjoint", "adjoint matrix"]
-tags: ["Y1_Alg", "Y1_Alg_s2_ch02_04", "concept", "determinant", "matrix", "matrix-inverse"]
-related_concepts: ["Determinant", "Cofactor", "Minor", "Matrix Inverse", "Cramer's Rule"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "concept", "determinant", "matrix", "matrix-inverse", "cofactor", "minor", "cramer-s-rule", "linear-algebra", "matrix-theory"]
+related_concepts: ["Determinant", "Cofactor", "Minor", "Matrix Inverse", "Cramer's Rule", "Field"]
 ---
 
 # Adjugate Matrix

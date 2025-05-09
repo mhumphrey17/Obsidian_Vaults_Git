@@ -1,8 +1,8 @@
 ---
 title: "Characteristic Polynomial"
 aliases: ["Characteristic Polynomials", "Δ_A(t)", "det(A-tI)"]
-tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept"]
-related_concepts: ["Eigenvalue", "Determinant", "Polynomial", "Similar Matrices"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept", "eigenvalue", "determinant", "polynomial", "similar-matrices", "algebraic-multiplicity", "minimal-polynomial", "trace", "linear-algebra", "matrix-theory"]
+related_concepts: ["Eigenvalue", "Determinant", "Polynomial", "Similar Matrices", "Algebraic Multiplicity", "Minimal Polynomial", "Trace", "Field"]
 ---
 
 # Characteristic Polynomial

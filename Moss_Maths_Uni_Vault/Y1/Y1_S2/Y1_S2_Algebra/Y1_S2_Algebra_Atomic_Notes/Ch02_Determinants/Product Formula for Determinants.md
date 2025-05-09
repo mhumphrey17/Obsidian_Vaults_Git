@@ -1,9 +1,8 @@
 ---
 title: "Product Formula for Determinants"
 aliases: ["determinant product rule", "determinant multiplicativity property"]
-tags: ["Y1_Alg", "Y1_Alg_s2_ch02_03", "concept", "determinant", "theorem"]
-related_concepts: ["Determinant", "Characterization of Determinants", "Matrix Multiplication", "Matrix Inverse"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "concept", "determinant", "theorem", "matrix-multiplication", "matrix-inverse", "similar-matrices", "linear-algebra", "matrix-theory"]
+related_concepts: ["Determinant", "Characterization of Determinants", "Matrix Multiplication", "Matrix Inverse", "Similar Matrices", "Field"]
 ---
 
 # Product Formula for Determinants

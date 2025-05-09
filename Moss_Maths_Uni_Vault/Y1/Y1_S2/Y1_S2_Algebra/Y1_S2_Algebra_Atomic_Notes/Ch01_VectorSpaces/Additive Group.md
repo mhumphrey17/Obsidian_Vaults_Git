@@ -1,10 +1,8 @@
 ---
 title: "Additive Group"
 aliases: ["Abelian Group", "Commutative Group"]
-tags: [concept, algebra-s2, ch-1, sec-1-2]
-related_concepts: ["Vector Space", "Field"]
-formula: ""
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "group-theory", "algebraic-structure", "vector-space", "field"]
+related_concepts: ["Vector Space", "Field", "Group (Abstract Algebra)", "Module"]
 ---
 
 # Additive Group

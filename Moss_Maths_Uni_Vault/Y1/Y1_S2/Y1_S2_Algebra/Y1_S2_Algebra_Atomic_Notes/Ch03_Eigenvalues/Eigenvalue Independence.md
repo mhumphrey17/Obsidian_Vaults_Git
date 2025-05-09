@@ -1,8 +1,8 @@
 ---
 title: "Eigenvalue Independence"
 aliases: ["Eigenvector Independence", "Distinct Eigenvalue Independence", "Eigenspace Independence"]
-tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept"]
-related_concepts: ["Linear Independence", "Eigenvalue", "Eigenvector", "Diagonalisation"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept", "linear-independence", "eigenvalue", "eigenvector", "diagonalisation", "eigenspace", "algebraic-multiplicity", "change-of-basis", "schur-s-theorem", "spectral-theorem", "linear-algebra"]
+related_concepts: ["Linear Independence", "Eigenvalue", "Eigenvector", "Diagonalisation", "Eigenspace", "Algebraic Multiplicity", "Change of Basis Matrix", "Schur's Theorem", "Spectral Theorem", "Field", "Vector Space"]
 ---
 
 # Eigenvalue Independence

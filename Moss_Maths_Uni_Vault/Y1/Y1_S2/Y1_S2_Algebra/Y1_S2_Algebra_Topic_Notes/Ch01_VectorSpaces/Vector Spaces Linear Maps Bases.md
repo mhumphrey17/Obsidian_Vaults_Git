@@ -1,9 +1,8 @@
 ---
 title: "Vector Spaces, Linear Maps and Bases"
 aliases: ["Chapter 1 Overview", "Linear Algebra Fundamentals"]
-tags: [topic, algebra-s2, ch-1]
-concepts: ["Vector Space", "Linear Map", "Basis", "Dimension", "Kernel", "Image", "Rank", "Nullity", "Rank-Nullity Theorem"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "topic", "vector-space", "linear-map", "basis", "dimension", "kernel", "image", "rank-nullity-theorem", "linear-algebra"]
+related_concepts: ["Field", "Vector Space", "Subspace", "Linear Map", "Kernel", "Image", "Isomorphism", "Linear Independence", "Spanning Set", "Basis", "Dimension", "Matrix Representation", "Change of Basis Matrix", "Rank", "Nullity", "Rank-Nullity Theorem"]
 ---
 
 # Vector Spaces, Linear Maps and Bases

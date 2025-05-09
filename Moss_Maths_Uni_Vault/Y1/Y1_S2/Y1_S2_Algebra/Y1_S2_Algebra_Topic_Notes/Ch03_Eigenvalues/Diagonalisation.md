@@ -1,9 +1,8 @@
 ---
 title: "Diagonalisation"
 aliases: ["Topic: Diagonalisation", "Section 3.3 Summary"]
-tags: ["topic", "algebra-s2", "ch-3", "sec-3-3"]
-concepts: ["Diagonalisable Matrix", "Diagonalisable Linear Operator", "Eigenbasis", "Matrix Powers", "Similarity"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "topic", "Y1_S2_Algebra_ch-3_sec-3-3", "diagonalisation", "eigenbasis", "matrix-powers", "similarity", "eigenvalue", "eigenvector", "matrix-representation", "change-of-basis", "jordan-normal-form", "schur-decomposition", "spectral-theorem", "linear-algebra", "vector-space"]
+related_concepts: ["Diagonalisable Matrix", "Diagonalisable Linear Operator", "Eigenbasis", "Matrix Powers via Diagonalisation", "Similar Matrices", "Eigenvalue", "Eigenvector", "Matrix Representation", "Change of Basis Matrix", "Jordan Normal Form", "Schur Decomposition", "Spectral Theorem", "Vector Space", "Field"]
 ---
 
 # Diagonalisation

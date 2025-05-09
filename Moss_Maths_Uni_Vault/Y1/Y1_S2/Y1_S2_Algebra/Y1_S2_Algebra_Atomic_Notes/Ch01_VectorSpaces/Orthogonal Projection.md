@@ -1,9 +1,8 @@
 ---
 title: "Orthogonal Projection"
 aliases: ["Orthogonal Projector", "Normal Projection"]
-tags: ["concept", "algebra-s2", "linear-transformation"]
-related_concepts: ["Projection", "Linear Map", "Inner Product", "Orthogonality"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-4", "concept", "projection", "linear-map", "inner-product", "orthogonality", "idempotence", "self-adjoint", "kernel", "orthogonal-complement", "least-squares", "gram-schmidt", "vector-space", "linear-algebra"]
+related_concepts: ["Projection", "Linear Map", "Inner Product", "Orthogonality", "Orthogonal Complement", "Vector Space", "Subspace"]
 ---
 
 # Orthogonal Projection

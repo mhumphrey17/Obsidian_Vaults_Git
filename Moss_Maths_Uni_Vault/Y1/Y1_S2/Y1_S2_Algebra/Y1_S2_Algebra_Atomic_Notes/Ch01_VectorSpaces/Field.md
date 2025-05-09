@@ -1,10 +1,8 @@
 ---
 title: "Field"
 aliases: ["Fields", "Field Axioms"]
-tags: [concept, algebra-s2, ch-1, sec-1-2]
-related_concepts: ["Vector Space", "Real Numbers", "Complex Numbers", "Scalar"]
-formula: ""
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "algebraic-structure", "vector-space", "scalar", "additive-group", "ring", "abstract-algebra"]
+related_concepts: ["Vector Space", "Scalar", "Additive Group", "Ring", "Real Numbers", "Complex Numbers", "Rational Numbers"]
 ---
 
 # Field

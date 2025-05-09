@@ -1,9 +1,8 @@
 ---
 title: "Vector Spaces and Subspaces"
 aliases: ["Topic: Vector Spaces", "Chapter 1.2 Summary"]
-tags: [topic, algebra-s2, ch-1, sec-1-2]
-concepts: ["Field", "Vector Space", "Subspace", "Additive Group", "Linear Combination", "Span", "Scalar"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "topic", "vector-space", "subspace", "field", "linear-combination", "span", "algebraic-structure", "linear-algebra"]
+related_concepts: ["Field", "Vector Space", "Subspace", "Additive Group", "Linear Combination", "Span", "Scalar"]
 ---
 
 # Vector Spaces and Subspaces

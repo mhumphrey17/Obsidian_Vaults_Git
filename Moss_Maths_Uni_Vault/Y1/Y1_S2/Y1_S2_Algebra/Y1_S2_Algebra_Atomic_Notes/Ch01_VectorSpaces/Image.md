@@ -1,10 +1,8 @@
 ---
 title: "Image"
 aliases: ["Range", "Image of a Linear Map", "Column Space"]
-tags: [concept, algebra-s2, ch-1, sec-1-3]
-related_concepts: ["Linear Map", "Kernel", "Subspace", "Rank", "Rank-Nullity Theorem"]
-formula: "\\text{Im } \\phi = \\{w \\in W : w = \\phi(v) \\text{ for some } v \\in V\\} = \\{\\phi(v) : v \\in V\\}"
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "linear-map", "kernel", "subspace", "rank", "rank-nullity-theorem", "column-space", "surjective", "linear-algebra"]
+related_concepts: ["Linear Map", "Kernel", "Subspace", "Rank", "Rank-Nullity Theorem", "Column Space", "Surjective Map"]
 ---
 
 # Image

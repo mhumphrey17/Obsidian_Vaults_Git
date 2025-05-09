@@ -1,8 +1,7 @@
 ---
 title: "Course Map of Content"
 aliases: ["MOC", "Course MOC", "Course Map"]
-tags: [MOC, navigation, algebra-s2]
-date_created: 2023-05-09
+tags: [MOC, navigation, "Y1", "Y1_S2_Algebra"]
 ---
 
 # Algebra Semester 2 - Map of Content
@@ -72,7 +71,7 @@ This Map of Content (MOC) serves as the central navigation hub for the Algebra S
 - [[Problems by Difficulty]]
 
 ## Reference
-- [[Tags Index]]
+
 
 ## Course Structure
 - Semester: Y1_S2

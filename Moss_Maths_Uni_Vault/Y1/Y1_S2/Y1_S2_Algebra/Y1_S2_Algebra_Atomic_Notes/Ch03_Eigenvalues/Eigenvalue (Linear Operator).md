@@ -1,8 +1,8 @@
 ---
 title: "Eigenvalue (Linear Operator)"
 aliases: ["Eigenvalues of Linear Operators", "Operator Eigenvalue"]
-tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept"]
-related_concepts: ["Linear Operator", "Eigenvalue", "Eigenvector", "Matrix Representation", "Characteristic Polynomial"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept", "linear-operator", "eigenvalue", "eigenvector", "matrix-representation", "characteristic-polynomial", "lambda-eigenspace", "diagonalisation", "linear-algebra"]
+related_concepts: ["Linear Operator", "Eigenvalue", "Eigenvector", "Matrix Representation", "Characteristic Polynomial", "λ-Eigenspace", "Diagonalisation", "Field", "Vector Space"]
 ---
 
 # Eigenvalue (Linear Operator)

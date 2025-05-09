@@ -1,18 +1,8 @@
 ---
-title: Elementary Row Operation
-aliases:
-  - ERO
-  - elementary row operation
-tags:
-  - Y1_Alg_s2_ch02_01
-  - concept
-  - matrix
-  - determinant
-related_concepts:
-  - Elementary Column Operation
-  - Determinant
-  - Matrix
-date_created: 2025-05-09
+title: "Elementary Row Operation"
+aliases: ["ERO", "elementary row operation"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "concept", "matrix", "determinant", "elementary-column-operation", "gaussian-elimination", "elementary-matrix", "linear-algebra", "matrix-theory"]
+related_concepts: ["Elementary Column Operation", "Determinant", "Matrix", "Gaussian Elimination", "Elementary Matrix", "Field"]
 ---
 
 # Elementary Row Operation

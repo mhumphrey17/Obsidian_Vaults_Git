@@ -1,9 +1,8 @@
 ---
 title: "Determinant Properties Under Elementary Operations"
 aliases: ["effect of elementary operations on determinants", "determinant transformation rules"]
-tags: ["concept", "Y1_Alg_s2_ch02_02", "determinant", "property", "elementary-operations"]
-related_concepts: ["Determinant", "Elementary Row Operation", "Elementary Column Operation", "Multilinearity of Determinants", "Alternating Property of Determinants"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "concept", "determinant", "property", "elementary-row-operation", "elementary-column-operation", "multilinearity", "alternating-property", "linear-algebra", "matrix-theory"]
+related_concepts: ["Determinant", "Elementary Row Operation", "Elementary Column Operation", "Multilinearity of Determinants", "Alternating Property of Determinants", "Field"]
 ---
 
 # Determinant Properties Under Elementary Operations

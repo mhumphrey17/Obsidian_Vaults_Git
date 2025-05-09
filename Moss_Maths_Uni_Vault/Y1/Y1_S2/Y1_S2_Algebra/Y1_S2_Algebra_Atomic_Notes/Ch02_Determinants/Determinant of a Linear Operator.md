@@ -1,9 +1,8 @@
 ---
 title: "Determinant of a Linear Operator"
 aliases: ["operator determinant", "linear transformation determinant"]
-tags: ["Y1_Alg", "Y1_Alg_s2_ch02_03", "concept", "determinant", "linear-operator"]
-related_concepts: ["Determinant", "Linear Operator", "Matrix Representation", "Similar Matrices", "Eigenvalues"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "concept", "determinant", "linear-operator", "matrix-representation", "similar-matrices", "eigenvalue", "linear-algebra"]
+related_concepts: ["Determinant", "Linear Operator", "Matrix Representation", "Similar Matrices", "Eigenvalue", "Field"]
 ---
 
 # Determinant of a Linear Operator

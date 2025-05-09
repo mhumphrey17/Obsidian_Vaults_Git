@@ -1,9 +1,8 @@
 ---
 title: "Linear Maps, Kernels, and Images"
 aliases: ["Topic: Linear Maps", "Chapter 1.3 Summary"]
-tags: [topic, algebra-s2, ch-1, sec-1-3]
-concepts: ["Linear Map", "Kernel", "Image", "Isomorphism", "Linear Operator"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "topic", "linear-map", "kernel", "image", "isomorphism", "vector-space", "linear-algebra"]
+related_concepts: ["Linear Map", "Kernel", "Image", "Isomorphism", "Linear Operator", "Vector Space", "Field", "Injective Map", "Surjective Map"]
 ---
 
 # Linear Maps, Kernels, and Images

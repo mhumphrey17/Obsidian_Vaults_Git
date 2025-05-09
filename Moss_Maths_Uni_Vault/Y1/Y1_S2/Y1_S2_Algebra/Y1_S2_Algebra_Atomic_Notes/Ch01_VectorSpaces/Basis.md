@@ -1,10 +1,8 @@
 ---
 title: "Basis"
 aliases: ["Bases", "Vector Space Basis"]
-tags: [concept, algebra-s2, ch-1, sec-1-4]
-related_concepts: ["Vector Space", "Linear Independence", "Spanning Set", "Dimension", "Coordinate Vector"]
-formula: "\\text{Basis is a linearly independent spanning set}"
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "linear-independence", "spanning-set", "dimension", "vector-space", "coordinate-vector", "linear-map", "matrix-representation", "linear-algebra"]
+related_concepts: ["Vector Space", "Linear Independence", "Spanning Set", "Dimension", "Coordinate Vector", "Linear Map", "Matrix Representation", "Field"]
 ---
 
 # Basis

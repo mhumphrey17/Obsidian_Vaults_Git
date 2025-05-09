@@ -1,21 +1,8 @@
 ---
-title: Linear Operator
-aliases:
-  - Linear Operators
-  - Linear Endomorphism
-tags:
-  - concept
-  - algebra-s2
-  - ch-1
-  - sec-1-6
-related_concepts:
-  - Linear Map
-  - Matrix Representation
-  - Eigenvalue
-  - Eigenvector
-  - Diagonalization
-formula: "\\phi: V \\rightarrow V \\text{ is a linear operator}"
-date_created: 2025-05-09
+title: "Linear Operator"
+aliases: ["Linear Operators", "Linear Endomorphism"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "linear-map", "matrix-representation", "eigenvalue", "eigenvector", "diagonalization", "kernel", "image", "vector-space", "endomorphism", "linear-algebra"]
+related_concepts: ["Linear Map", "Matrix Representation", "Eigenvalue", "Eigenvector", "Diagonalization", "Kernel", "Image", "Vector Space", "Field"]
 ---
 
 # Linear Operator

@@ -1,9 +1,8 @@
 ---
 title: "Matrix Representation and Change of Basis"
 aliases: ["Topic: Matrix Representation", "Chapter 1.6-1.7 Summary"]
-tags: [topic, algebra-s2, ch-1, sec-1-6, sec-1-7]
-concepts: ["Matrix Representation", "Linear Operator", "Change of Basis Matrix", "Coordinate Vector", "Similar Matrices"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "topic", "matrix-representation", "change-of-basis", "linear-map", "basis", "coordinate-vector", "similar-matrices", "linear-algebra"]
+related_concepts: ["Matrix Representation", "Linear Operator", "Change of Basis Matrix", "Coordinate Vector", "Similar Matrices", "Linear Map", "Basis", "Matrix", "Vector Space", "Field"]
 ---
 
 # Matrix Representation and Change of Basis

@@ -1,9 +1,8 @@
 ---
 title: "Triangular Matrix"
 aliases: ["triangular matrix", "upper triangular matrix", "lower triangular matrix"]
-tags: ["Y1_Alg_s2_ch02_01", "concept", "matrix", "determinant"]
-related_concepts: ["Block Triangular Matrix", "Determinant", "Matrix", "Diagonal Matrix"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "concept", "matrix", "determinant", "diagonal-matrix", "eigenvalue", "lu-decomposition", "schur-decomposition", "elementary-row-operation", "linear-algebra", "matrix-theory"]
+related_concepts: ["Block Triangular Matrix", "Determinant", "Matrix", "Diagonal Matrix", "Eigenvalue", "LU Decomposition", "Schur Decomposition", "Elementary Row Operation", "Field"]
 ---
 
 # Triangular Matrix

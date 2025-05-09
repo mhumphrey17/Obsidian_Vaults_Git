@@ -1,9 +1,8 @@
 ---
 title: "Matrix Inversion via Adjugate"
 aliases: ["classical adjoint method", "adjugate inverse formula"]
-tags: ["Y1_Alg", "Y1_Alg_s2_ch02_04", "concept", "determinant", "matrix", "matrix-inverse"]
-related_concepts: ["Matrix Inverse", "Adjugate Matrix", "Determinant", "Cofactor", "Minor"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "concept", "determinant", "matrix", "matrix-inverse", "adjugate-matrix", "cofactor", "minor", "cramer-s-rule", "linear-algebra", "matrix-theory"]
+related_concepts: ["Matrix Inverse", "Adjugate Matrix", "Determinant", "Cofactor", "Minor", "Cramer's Rule", "Field"]
 ---
 
 # Matrix Inversion via Adjugate

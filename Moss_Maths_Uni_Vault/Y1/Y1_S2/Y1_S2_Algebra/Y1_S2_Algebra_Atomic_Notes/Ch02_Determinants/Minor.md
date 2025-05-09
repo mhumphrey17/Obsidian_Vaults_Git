@@ -1,9 +1,8 @@
 ---
 title: "Minor"
 aliases: ["minor", "matrix minor", "minors"]
-tags: ["Y1_Alg", "Y1_Alg_s2_ch02_04", "concept", "determinant", "matrix"]
-related_concepts: ["Determinant", "Cofactor", "Adjugate", "Matrix Inverse", "Laplace Expansion"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "concept", "determinant", "matrix", "cofactor", "adjugate-matrix", "matrix-inverse", "laplace-expansion", "linear-algebra", "matrix-theory"]
+related_concepts: ["Determinant", "Cofactor", "Adjugate Matrix", "Matrix Inverse", "Laplace Expansion", "Field"]
 ---
 
 # Minor

@@ -1,10 +1,8 @@
 ---
 title: "Minimal Spanning List"
 aliases: ["Minimal Spanning Set"]
-tags: [concept, algebra-s2, ch-1, sec-1-5]
-related_concepts: ["Spanning Set", "Basis", "Linear Independence", "Maximal Linearly Independent List"]
-formula: ""
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "spanning-set", "basis", "linear-independence", "maximal-linearly-independent-list", "dimension", "linear-combination", "vector-space", "linear-algebra"]
+related_concepts: ["Spanning Set", "Basis", "Linear Independence", "Maximal Linearly Independent List", "Dimension", "Linear Combination", "Vector Space", "Field"]
 ---
 
 # Minimal Spanning List

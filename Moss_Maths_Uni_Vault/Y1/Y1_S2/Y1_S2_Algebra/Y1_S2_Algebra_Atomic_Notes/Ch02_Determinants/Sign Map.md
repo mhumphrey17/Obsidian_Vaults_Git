@@ -1,19 +1,8 @@
 ---
-title: Sign Map
-aliases:
-  - sign of permutation
-  - sgn
-  - parity function
-tags:
-  - Y1_Alg_s2_ch02_01
-  - concept
-  - permutation
-  - determinant
-related_concepts:
-  - Permutation
-  - Determinant
-  - Transposition
-date_created: 2025-05-09
+title: "Sign Map"
+aliases: ["sign of permutation", "sgn", "parity function"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "concept", "permutation", "determinant", "transposition", "alternating-group", "group-theory", "linear-algebra"]
+related_concepts: ["Permutation", "Determinant", "Transposition", "Alternating Group"]
 ---
 
 # Sign Map

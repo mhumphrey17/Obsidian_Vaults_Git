@@ -1,10 +1,8 @@
 ---
 title: "Vector Space"
 aliases: ["Vector Spaces", "Linear Space"]
-tags: [concept, algebra-s2, ch-1, sec-1-2]
-related_concepts: ["Field", "Subspace", "Linear Combination", "Linear Map"]
-formula: ""
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "field", "subspace", "linear-combination", "linear-map", "basis", "dimension", "algebraic-structure", "linear-algebra"]
+related_concepts: ["Field", "Subspace", "Linear Combination", "Linear Map", "Basis", "Dimension", "Scalar", "Additive Group"]
 ---
 
 # Vector Space

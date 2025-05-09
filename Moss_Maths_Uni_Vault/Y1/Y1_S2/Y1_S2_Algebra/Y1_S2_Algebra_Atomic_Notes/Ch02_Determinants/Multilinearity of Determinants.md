@@ -1,18 +1,8 @@
 ---
-title: Multilinearity of Determinants
-aliases:
-  - multilinearity property
-  - linearity of determinants
-tags:
-  - concept
-  - Y1_Alg_s2_ch02_02
-  - determinant
-  - property
-related_concepts:
-  - Determinant
-  - Alternating Property of Determinants
-  - Linear Map
-date_created: 2025-05-09
+title: "Multilinearity of Determinants"
+aliases: ["multilinearity property", "linearity of determinants"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "concept", "determinant", "property", "alternating-property", "elementary-row-operation", "elementary-column-operation", "linear-map", "linear-algebra", "matrix-theory"]
+related_concepts: ["Determinant", "Alternating Property of Determinants", "Elementary Row Operation", "Elementary Column Operation", "Linear Map", "Field"]
 ---
 
 # Multilinearity of Determinants

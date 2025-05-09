@@ -1,10 +1,8 @@
 ---
 title: "Change of Basis Matrix"
 aliases: ["Change of Basis", "Basis Transformation", "Transition Matrix"]
-tags: [concept, algebra-s2, ch-1, sec-1-7]
-related_concepts: ["Basis", "Coordinate Vector", "Matrix Representation", "Linear Map", "Similar Matrices"]
-formula: "P_{\\alpha \\to \\alpha'} \\cdot [v]_{\\alpha'} = [v]_{\\alpha}"
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "basis", "coordinate-vector", "matrix-representation", "linear-map", "similar-matrices", "linear-algebra", "vector-space"]
+related_concepts: ["Basis", "Coordinate Vector", "Matrix Representation", "Linear Map", "Similar Matrices", "Vector Space", "Field"]
 ---
 
 # Change of Basis Matrix

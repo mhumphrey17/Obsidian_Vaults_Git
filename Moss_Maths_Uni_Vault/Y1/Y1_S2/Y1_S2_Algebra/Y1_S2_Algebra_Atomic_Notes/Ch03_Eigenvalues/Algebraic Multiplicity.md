@@ -1,8 +1,8 @@
 ---
 title: "Algebraic Multiplicity"
 aliases: ["a.m.", "Multiplicity (Algebraic)", "Root Multiplicity"]
-tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept"]
-related_concepts: ["Eigenvalue", "Characteristic Polynomial", "Geometric Multiplicity", "Diagonalisation"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept", "eigenvalue", "characteristic-polynomial", "geometric-multiplicity", "diagonalisation", "jordan-normal-form", "cayley-hamilton-theorem", "spectral-theorem", "linear-algebra"]
+related_concepts: ["Eigenvalue", "Characteristic Polynomial", "Geometric Multiplicity", "Diagonalisation", "Jordan Normal Form", "Cayley-Hamilton Theorem", "Spectral Theorem", "Field"]
 ---
 
 # Algebraic Multiplicity

@@ -1,9 +1,8 @@
 ---
 title: "Characterization of Determinants"
 aliases: ["determinant characterization theorem", "uniqueness of determinant"]
-tags: ["Y1_Alg", "Y1_Alg_s2_ch02_03", "concept", "determinant", "theorem"]
-related_concepts: ["Determinant", "Multilinearity of Determinants", "Alternating Property of Determinants", "Product Formula for Determinants"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "concept", "determinant", "theorem", "multilinearity", "alternating-property", "product-formula", "linear-algebra", "matrix-theory"]
+related_concepts: ["Determinant", "Multilinearity of Determinants", "Alternating Property of Determinants", "Product Formula for Determinants", "Field"]
 ---
 
 # Characterization of Determinants

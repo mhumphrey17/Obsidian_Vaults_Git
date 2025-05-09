@@ -1,10 +1,8 @@
 ---
 title: "Linear Independence"
 aliases: ["Linearly Independent", "Linear Dependence", "Linearly Dependent"]
-tags: [concept, algebra-s2, ch-1, sec-1-4]
-related_concepts: ["Vector Space", "Basis", "Spanning Set", "Linear Combination", "Dimension"]
-formula: "\\sum_{i=1}^{n} \\lambda_i v_i = 0 \\implies \\lambda_i = 0 \\text{ for all } i"
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "vector-space", "basis", "spanning-set", "linear-combination", "dimension", "span", "rank", "linear-algebra"]
+related_concepts: ["Vector Space", "Basis", "Spanning Set", "Linear Combination", "Dimension", "Span", "Rank", "Field"]
 ---
 
 # Linear Independence

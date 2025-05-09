@@ -1,10 +1,8 @@
 ---
 title: "Coordinate Vector"
 aliases: ["Coordinates", "Component Vector"]
-tags: [concept, algebra-s2, ch-1, sec-1-4]
-related_concepts: ["Basis", "Vector Space", "Linear Combination", "Isomorphism"]
-formula: "v = \\sum_{i=1}^{n} \\lambda_i v_i \\implies [v]_\\alpha = (\\lambda_1, \\lambda_2, \\ldots, \\lambda_n)"
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "basis", "vector-space", "linear-combination", "isomorphism", "change-of-basis", "linear-map", "linear-algebra"]
+related_concepts: ["Basis", "Vector Space", "Linear Combination", "Isomorphism", "Change of Basis Matrix", "Linear Map", "Field"]
 ---
 
 # Coordinate Vector

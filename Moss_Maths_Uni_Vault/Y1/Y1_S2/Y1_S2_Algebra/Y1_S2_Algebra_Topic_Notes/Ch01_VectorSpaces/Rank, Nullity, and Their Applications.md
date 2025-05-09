@@ -1,9 +1,8 @@
 ---
 title: "Rank, Nullity, and Their Applications"
 aliases: ["Topic: Rank-Nullity", "Chapter 1.8-1.9 Summary"]
-tags: [topic, algebra-s2, ch-1, sec-1-8, sec-1-9]
-concepts: ["Rank", "Nullity", "Rank-Nullity Theorem", "Direct Sum", "Sum of Subspaces"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "topic", "rank", "nullity", "rank-nullity-theorem", "linear-map", "dimension", "direct-sum", "linear-algebra"]
+related_concepts: ["Rank", "Nullity", "Rank-Nullity Theorem", "Direct Sum", "Sum of Subspaces", "Linear Map", "Kernel", "Image", "Dimension", "Vector Space", "Field"]
 ---
 
 # Rank, Nullity, and Their Applications

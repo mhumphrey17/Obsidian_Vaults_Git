@@ -1,10 +1,8 @@
 ---
 title: "Kernel"
 aliases: ["Null Space", "Kernel of a Linear Map"]
-tags: [concept, algebra-s2, ch-1, sec-1-3]
-related_concepts: ["Linear Map", "Image", "Subspace", "Nullity", "Rank-Nullity Theorem"]
-formula: "\\ker \\phi = \\{v \\in V : \\phi(v) = 0\\}"
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "linear-map", "image", "subspace", "nullity", "rank-nullity-theorem", "null-space", "injective", "linear-system", "linear-algebra", "vector-space"]
+related_concepts: ["Linear Map", "Image", "Subspace", "Nullity", "Rank-Nullity Theorem", "Vector Space", "Injective Map", "Linear System"]
 ---
 
 # Kernel

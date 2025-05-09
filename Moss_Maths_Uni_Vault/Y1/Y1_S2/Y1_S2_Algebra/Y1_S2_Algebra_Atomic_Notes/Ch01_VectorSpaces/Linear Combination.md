@@ -1,10 +1,8 @@
 ---
 title: "Linear Combination"
 aliases: ["Linear Combinations", "Scalar Combinations"]
-tags: [concept, algebra-s2, ch-1, sec-1-2]
-related_concepts: ["Vector Space", "Subspace", "Span", "Linear Independence"]
-formula: "\\sum_{i=1}^{n} \\lambda_i v_i = \\lambda_1 v_1 + \\lambda_2 v_2 + \\cdots + \\lambda_n v_n"
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "vector-space", "subspace", "span", "linear-independence", "basis", "linear-map", "scalar", "linear-algebra"]
+related_concepts: ["Vector Space", "Subspace", "Span", "Linear Independence", "Basis", "Linear Map", "Scalar", "Field"]
 ---
 
 # Linear Combination

@@ -1,8 +1,8 @@
 ---
 title: "Determinant Calculation Methods"
 aliases: ["computing determinants", "determinant algorithms"]
-tags: ["topic", "algebra-s2", "ch-02", "determinant", "computation"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "topic", "determinant", "computation", "permutation", "laplace-expansion", "cofactor", "gaussian-elimination", "lu-decomposition", "triangular-matrix", "block-matrix", "eigenvalue", "numerical-analysis", "linear-algebra", "matrix-theory"]
+related_concepts: ["Determinant", "Laplace Expansion", "Cofactor", "Minor", "Gaussian Elimination", "LU Decomposition", "Triangular Matrix", "Block Triangular Matrix", "Eigenvalue", "Elementary Row Operation", "Elementary Column Operation", "Permutation", "Field"]
 ---
 
 # Determinant Calculation Methods

@@ -1,10 +1,8 @@
 ---
 title: "Direct Sum"
 aliases: ["External Direct Sum", "Internal Direct Sum"]
-tags: [concept, algebra-s2, ch-1, sec-1-9]
-related_concepts: ["Vector Space", "Subspace", "Dimension", "Linear Combination", "Sum of Subspaces"]
-formula: "\\dim(U \\oplus W) = \\dim U + \\dim W"
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "vector-space", "subspace", "dimension", "linear-combination", "sum-of-subspaces", "rank-nullity-theorem", "field", "linear-algebra"]
+related_concepts: ["Vector Space", "Subspace", "Dimension", "Linear Combination", "Sum of Subspaces", "Rank-Nullity Theorem", "Field"]
 ---
 
 # Direct Sum

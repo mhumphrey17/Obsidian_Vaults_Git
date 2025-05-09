@@ -1,21 +1,8 @@
 ---
-title: Determinant
-aliases:
-  - determinant
-  - det
-  - "|A|"
-tags:
-  - Y1_Alg_s2_ch02_01
-  - concept
-  - matrix
-  - determinant
-related_concepts:
-  - Matrix
-  - Permutation
-  - Elementary Row Operation
-  - Elementary Column Operation
-  - Triangular Matrix
-date_created: 2025-05-09
+title: "Determinant"
+aliases: ["determinant", "det", "|A|"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "concept", "matrix", "permutation", "elementary-row-operation", "elementary-column-operation", "triangular-matrix", "linear-algebra", "matrix-theory"]
+related_concepts: ["Matrix", "Permutation", "Elementary Row Operation", "Elementary Column Operation", "Triangular Matrix", "Field"]
 ---
 
 # Determinant

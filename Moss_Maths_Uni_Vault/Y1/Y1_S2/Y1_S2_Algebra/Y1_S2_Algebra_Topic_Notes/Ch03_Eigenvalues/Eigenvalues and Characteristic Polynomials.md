@@ -1,8 +1,8 @@
 ---
 title: "Eigenvalues and Characteristic Polynomials"
 aliases: ["Topic: Eigenvalues", "Section 3.1 Summary"]
-tags: ["topic", "algebra-s2", "ch-3", "sec-3-1"]
-concepts: ["Eigenvalue", "Eigenvector", "Characteristic Polynomial", "Similar Matrices"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "topic", "Y1_S2_Algebra_ch-3_sec-3-1", "eigenvalue", "eigenvector", "characteristic-polynomial", "similar-matrices", "determinant", "polynomial", "matrix", "invertibility", "trace", "algebraic-multiplicity", "linear-operator", "linear-algebra", "vector-space"]
+related_concepts: ["Eigenvalue", "Eigenvector", "Characteristic Polynomial", "Similar Matrices", "Determinant", "Polynomial", "Matrix", "Matrix Invertibility", "Trace", "Algebraic Multiplicity", "Linear Operator", "Vector Space", "Field"]
 ---
 
 # Eigenvalues and Characteristic Polynomials

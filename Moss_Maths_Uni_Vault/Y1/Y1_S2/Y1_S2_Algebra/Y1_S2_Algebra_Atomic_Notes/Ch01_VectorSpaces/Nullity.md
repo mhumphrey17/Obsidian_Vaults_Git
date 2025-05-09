@@ -1,10 +1,8 @@
 ---
 title: "Nullity"
 aliases: ["Nullity of a Linear Map", "Dimension of the Kernel"]
-tags: [concept, algebra-s2, ch-1, sec-1-9]
-related_concepts: ["Linear Map", "Kernel", "Rank", "Rank-Nullity Theorem", "Matrix"]
-formula: "\\operatorname{null} \\phi = \\dim(\\operatorname{Ker} \\phi)"
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "linear-map", "kernel", "rank", "rank-nullity-theorem", "matrix", "dimension", "injective-map", "linear-system", "vector-space", "linear-algebra"]
+related_concepts: ["Linear Map", "Kernel", "Rank", "Rank-Nullity Theorem", "Matrix", "Dimension", "Injective Map", "Linear System", "Vector Space", "Field"]
 ---
 
 # Nullity

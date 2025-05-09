@@ -1,8 +1,8 @@
 ---
 title: "Diagonalisable Matrix"
 aliases: ["Diagonalizable Matrix", "Diagonalisable", "Matrix Diagonalisation"]
-tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept"]
-related_concepts: ["Eigenbasis", "Eigenvalue", "Eigenvector", "Similar Matrices", "Change of Basis"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept", "eigenbasis", "eigenvalue", "eigenvector", "similar-matrices", "change-of-basis", "algebraic-multiplicity", "geometric-multiplicity", "matrix-powers", "linear-algebra", "matrix-theory"]
+related_concepts: ["Eigenbasis", "Eigenvalue", "Eigenvector", "Similar Matrices", "Change of Basis Matrix", "Algebraic Multiplicity", "Geometric Multiplicity", "Matrix Powers via Diagonalisation", "Field"]
 ---
 
 # Diagonalisable Matrix

@@ -1,9 +1,8 @@
 ---
 title: "Block Triangular Matrix"
 aliases: ["block triangular matrix", "blockwise triangular matrix"]
-tags: ["Y1_Alg_s2_ch02_01", "concept", "matrix", "determinant", "triangular-matrix"]
-related_concepts: ["Triangular Matrix", "Block Matrix", "Determinant"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "concept", "matrix", "determinant", "triangular-matrix", "block-matrix", "linear-algebra", "matrix-theory"]
+related_concepts: ["Triangular Matrix", "Block Matrix", "Determinant", "Field"]
 ---
 
 # Block Triangular Matrix

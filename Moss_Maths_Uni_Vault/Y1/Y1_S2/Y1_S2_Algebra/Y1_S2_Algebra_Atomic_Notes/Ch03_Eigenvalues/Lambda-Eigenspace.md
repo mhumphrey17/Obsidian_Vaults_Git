@@ -1,8 +1,8 @@
 ---
 title: "λ-Eigenspace"
 aliases: ["Lambda-Eigenspace", "Eigenspace", "E_φ(λ)", "E_A(λ)"]
-tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept"]
-related_concepts: ["Eigenvalue", "Eigenvector", "Kernel", "Subspace", "Geometric Multiplicity"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept", "eigenvalue", "eigenvector", "kernel", "subspace", "geometric-multiplicity", "diagonalisation", "linear-algebra", "vector-space"]
+related_concepts: ["Eigenvalue", "Eigenvector", "Kernel", "Subspace", "Geometric Multiplicity", "Diagonalisation", "Field", "Vector Space"]
 ---
 
 # λ-Eigenspace

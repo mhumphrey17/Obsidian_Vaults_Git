@@ -1,9 +1,8 @@
 ---
 title: "Permutation Matrix"
 aliases: ["permutation matrix", "permutation matrices"]
-tags: ["Y1_Alg_s2_ch02_01", "concept", "matrix", "permutation", "determinant"]
-related_concepts: ["Permutation", "Determinant", "Sign Map", "Elementary Row Operation", "Elementary Column Operation"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "concept", "matrix", "permutation", "determinant", "sign-map", "elementary-row-operation", "elementary-column-operation", "orthogonal-matrix", "linear-algebra", "matrix-theory"]
+related_concepts: ["Permutation", "Determinant", "Sign Map", "Elementary Row Operation", "Elementary Column Operation", "Orthogonal Matrix", "Field"]
 ---
 
 # Permutation Matrix

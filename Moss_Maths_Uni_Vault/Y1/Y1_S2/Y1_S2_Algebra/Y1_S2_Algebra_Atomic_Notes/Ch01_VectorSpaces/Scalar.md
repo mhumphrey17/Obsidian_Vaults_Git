@@ -1,10 +1,8 @@
 ---
 title: "Scalar"
 aliases: ["Scalars"]
-tags: [concept, algebra-s2, ch-1, sec-1-2]
-related_concepts: ["Field", "Vector Space", "Scalar Multiplication"]
-formula: ""
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "field", "vector-space", "scalar-multiplication", "linear-combination", "linear-map", "linear-algebra"]
+related_concepts: ["Field", "Vector Space", "Scalar Multiplication", "Linear Combination", "Linear Map"]
 ---
 
 # Scalar

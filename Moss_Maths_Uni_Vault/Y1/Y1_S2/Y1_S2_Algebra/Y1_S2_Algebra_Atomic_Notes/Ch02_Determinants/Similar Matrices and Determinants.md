@@ -1,9 +1,8 @@
 ---
 title: "Similar Matrices and Determinants"
 aliases: ["similarity and determinants", "determinant invariance under similarity"]
-tags: ["Y1_Alg", "Y1_Alg_s2_ch02_03", "concept", "determinant", "similarity"]
-related_concepts: ["Similar Matrices", "Determinant", "Product Formula for Determinants", "Determinant of a Linear Operator", "Eigenvalues"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "concept", "determinant", "similarity", "similar-matrices", "product-formula", "determinant-of-linear-operator", "eigenvalue", "change-of-basis", "linear-algebra", "matrix-theory"]
+related_concepts: ["Similar Matrices", "Determinant", "Product Formula for Determinants", "Determinant of a Linear Operator", "Eigenvalue", "Change of Basis Matrix", "Field"]
 ---
 
 # Similar Matrices and Determinants

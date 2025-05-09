@@ -1,21 +1,8 @@
 ---
-title: Span
-aliases:
-  - Linear Span
-  - Spanning Set
-tags:
-  - concept
-  - algebra-s2
-  - ch-1
-  - sec-1-4
-related_concepts:
-  - Vector Space
-  - Subspace
-  - Linear Combination
-  - Basis
-  - Linear Independence
-formula: "\\langle S \\rangle = \\{\\sum_{i=1}^{n} \\lambda_i v_i : \\lambda_i \\in \\mathbb{F}, v_i \\in S, n \\in \\mathbb{N}\\}"
-date_created: 2025-05-09
+title: "Span"
+aliases: ["Linear Span", "Spanning Set"] # Note: "Spanning Set" is also a separate note title, consider if this alias is still needed or if they should be more distinct.
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "vector-space", "subspace", "linear-combination", "basis", "linear-independence", "dimension", "spanning-set", "linear-algebra"]
+related_concepts: ["Vector Space", "Subspace", "Linear Combination", "Basis", "Linear Independence", "Dimension", "Spanning Set", "Field"]
 ---
 
 # Span

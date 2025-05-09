@@ -1,8 +1,8 @@
 ---
 title: "Geometric Multiplicity"
 aliases: ["g.m.", "Multiplicity (Geometric)", "Eigenspace Dimension"]
-tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept"]
-related_concepts: ["Eigenvalue", "Eigenspace", "Algebraic Multiplicity", "Diagonalisation", "Dimension"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept", "eigenvalue", "eigenspace", "algebraic-multiplicity", "diagonalisation", "dimension", "rank-nullity-theorem", "jordan-normal-form", "linear-algebra"]
+related_concepts: ["Eigenvalue", "Eigenspace", "Algebraic Multiplicity", "Diagonalisation", "Dimension", "Rank-Nullity Theorem", "Jordan Normal Form", "Field", "Vector Space"]
 ---
 
 # Geometric Multiplicity

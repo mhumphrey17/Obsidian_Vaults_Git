@@ -1,10 +1,8 @@
 ---
 title: "Linear Map"
 aliases: ["Linear Maps", "Linear Transformation", "Linear Function"]
-tags: [concept, algebra-s2, ch-1, sec-1-3]
-related_concepts: ["Vector Space", "Kernel", "Image", "Matrix", "Isomorphism"]
-formula: "\\phi(\\lambda v + \\mu w) = \\lambda \\phi(v) + \\mu \\phi(w)"
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "vector-space", "kernel", "image", "matrix", "isomorphism", "rank", "nullity", "linear-combination", "span", "linear-algebra", "homomorphism"]
+related_concepts: ["Vector Space", "Kernel", "Image", "Matrix Representation", "Isomorphism", "Rank", "Nullity", "Linear Combination", "Span", "Field"]
 ---
 
 # Linear Map

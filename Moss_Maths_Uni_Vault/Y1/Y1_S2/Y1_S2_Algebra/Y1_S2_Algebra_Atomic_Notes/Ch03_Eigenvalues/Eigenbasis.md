@@ -1,8 +1,8 @@
 ---
 title: "Eigenbasis"
 aliases: ["Eigen-basis", "Eigenvalue Basis", "Eigenspace Basis"]
-tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept"]
-related_concepts: ["Basis", "Eigenvector", "Diagonalisation", "Linear Independence", "Eigenspace"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept", "basis", "eigenvector", "diagonalisation", "linear-independence", "eigenspace", "eigenvalue", "matrix-representation", "spectral-theorem", "linear-algebra", "vector-space"]
+related_concepts: ["Basis", "Eigenvector", "Diagonalisation", "Linear Independence", "Eigenspace", "Eigenvalue", "Matrix Representation", "Spectral Theorem", "Diagonalisable Linear Operator", "Diagonalisable Matrix", "Field", "Vector Space"]
 ---
 
 # Eigenbasis

@@ -1,10 +1,8 @@
 ---
 title: "Maximal Linearly Independent List"
 aliases: ["Maximal Linearly Independent Set"]
-tags: [concept, algebra-s2, ch-1, sec-1-5]
-related_concepts: ["Linear Independence", "Basis", "Spanning Set", "Minimal Spanning List"]
-formula: ""
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "linear-independence", "basis", "spanning-set", "minimal-spanning-list", "dimension", "span", "vector-space", "linear-algebra"]
+related_concepts: ["Linear Independence", "Basis", "Spanning Set", "Minimal Spanning List", "Dimension", "Span", "Vector Space", "Field"]
 ---
 
 # Maximal Linearly Independent List

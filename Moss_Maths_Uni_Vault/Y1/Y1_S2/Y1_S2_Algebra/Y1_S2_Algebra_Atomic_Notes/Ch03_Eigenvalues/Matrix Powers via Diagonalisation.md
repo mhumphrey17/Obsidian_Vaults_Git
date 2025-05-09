@@ -1,8 +1,8 @@
 ---
 title: "Matrix Powers via Diagonalisation"
 aliases: ["Matrix Powers", "A^n via Diagonalisation", "Powers of Matrices"]
-tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept"]
-related_concepts: ["Diagonalisation", "Matrix Multiplication", "Eigenvalue", "Fibonacci Sequence"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "concept", "diagonalisation", "matrix-multiplication", "eigenvalue", "fibonacci-sequence", "cayley-hamilton-theorem", "jordan-normal-form", "matrix-exponential", "recurrence-relation", "markov-chain", "linear-algebra", "matrix-theory"]
+related_concepts: ["Diagonalisation", "Matrix Multiplication", "Eigenvalue", "Fibonacci Sequence", "Cayley-Hamilton Theorem", "Jordan Normal Form", "Matrix Exponential", "Recurrence Relations", "Markov Chain", "Field"]
 ---
 
 # Matrix Powers via Diagonalisation

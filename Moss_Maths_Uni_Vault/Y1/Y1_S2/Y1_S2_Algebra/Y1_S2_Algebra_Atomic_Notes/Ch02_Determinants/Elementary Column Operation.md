@@ -1,18 +1,8 @@
 ---
-title: Elementary Column Operation
-aliases:
-  - ECO
-  - elementary column operation
-tags:
-  - Y1_Alg_s2_ch02_01
-  - concept
-  - matrix
-  - determinant
-related_concepts:
-  - Elementary Row Operation
-  - Determinant
-  - Matrix
-date_created: 2025-05-09
+title: "Elementary Column Operation"
+aliases: ["ECO", "elementary column operation"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "concept", "matrix", "determinant", "elementary-row-operation", "elementary-matrix", "linear-algebra", "matrix-theory"]
+related_concepts: ["Elementary Row Operation", "Determinant", "Matrix", "Elementary Matrix", "Field"]
 ---
 
 # Elementary Column Operation

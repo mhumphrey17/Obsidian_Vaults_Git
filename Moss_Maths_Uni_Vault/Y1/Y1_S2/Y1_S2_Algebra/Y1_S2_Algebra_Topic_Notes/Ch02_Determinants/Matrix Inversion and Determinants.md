@@ -1,8 +1,8 @@
 ---
 title: "Matrix Inversion and Determinants"
 aliases: ["inverting matrices using determinants", "determinant-based inversion"]
-tags: ["topic", "algebra-s2", "ch-02", "determinant", "matrix-inverse"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "topic", "determinant", "matrix-inverse", "adjugate-matrix", "cofactor", "minor", "cramer-s-rule", "invertibility", "linear-algebra", "matrix-theory"]
+related_concepts: ["Determinant", "Matrix Inverse", "Adjugate Matrix", "Cofactor", "Minor", "Cramer's Rule", "Gaussian Elimination", "LU Decomposition", "Field"]
 ---
 
 # Matrix Inversion and Determinants

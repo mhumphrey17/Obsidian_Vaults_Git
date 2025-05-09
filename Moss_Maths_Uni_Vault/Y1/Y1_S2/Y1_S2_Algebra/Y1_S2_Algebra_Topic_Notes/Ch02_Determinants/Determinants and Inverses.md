@@ -1,8 +1,8 @@
 ---
 title: "Chapter 2: Determinants and Inverses"
 aliases: ["Ch2", "Determinants and Inverses"]
-tags: ["topic", "algebra-s2", "ch-02", "determinant", "matrix-inverse"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "topic", "determinant", "matrix-inverse", "permutation", "elementary-operation", "triangular-matrix", "multilinearity", "alternating-property", "laplace-expansion", "adjugate-matrix", "cramer-s-rule", "linear-algebra", "matrix-theory"]
+related_concepts: ["Determinant", "Matrix Inverse", "Sign Map", "Elementary Row Operation", "Elementary Column Operation", "Permutation Matrix", "Triangular Matrix", "Block Triangular Matrix", "Multilinearity of Determinants", "Alternating Property of Determinants", "Characterization of Determinants", "Product Formula for Determinants", "Determinant of a Linear Operator", "Similar Matrices", "Minor", "Cofactor", "Laplace Expansion", "Adjugate Matrix", "Matrix Inversion via Adjugate", "Cramer's Rule", "Vector Space", "Linear Map", "Field"]
 ---
 
 # Chapter 2: Determinants and Inverses

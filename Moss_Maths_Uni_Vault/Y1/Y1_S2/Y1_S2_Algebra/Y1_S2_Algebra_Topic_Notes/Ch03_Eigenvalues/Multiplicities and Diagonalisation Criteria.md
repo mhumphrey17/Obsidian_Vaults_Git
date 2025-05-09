@@ -1,8 +1,8 @@
 ---
 title: "Multiplicities and Diagonalisation Criteria"
 aliases: ["Topic: Multiplicities", "Section 3.4 Summary"]
-tags: ["topic", "algebra-s2", "ch-3", "sec-3-4"]
-concepts: ["Algebraic Multiplicity", "Geometric Multiplicity", "Eigenvalue Independence", "Diagonalisation Criteria"]
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-3", "topic", "Y1_S2_Algebra_ch-3_sec-3-4", "algebraic-multiplicity", "geometric-multiplicity", "eigenvalue-independence", "diagonalisation-criteria", "eigenvalue", "eigenvector", "eigenspace", "diagonalisation", "characteristic-polynomial", "linear-independence", "dimension", "rank-nullity-theorem", "jordan-normal-form", "schur-decomposition", "spectral-theorem", "linear-algebra", "vector-space"]
+related_concepts: ["Algebraic Multiplicity", "Geometric Multiplicity", "Eigenvalue Independence", "Diagonalisation Criteria", "Eigenvalue", "Eigenvector", "Eigenspace", "Diagonalisation", "Characteristic Polynomial", "Linear Independence", "Dimension", "Rank-Nullity Theorem", "Jordan Normal Form", "Schur Decomposition", "Spectral Theorem", "Vector Space", "Field"]
 ---
 
 # Multiplicities and Diagonalisation Criteria

@@ -1,10 +1,8 @@
 ---
 title: "Subspace"
 aliases: ["Linear Subspace", "Vector Subspace"]
-tags: [concept, algebra-s2, ch-1, sec-1-2]
-related_concepts: ["Vector Space", "Linear Combination", "Span", "Trivial Subspace"]
-formula: ""
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "vector-space", "linear-combination", "span", "kernel", "image", "dimension", "sum-of-subspaces", "intersection-of-subspaces", "linear-algebra"]
+related_concepts: ["Vector Space", "Linear Combination", "Span", "Kernel", "Image", "Dimension", "Sum of Subspaces", "Field"]
 ---
 
 # Subspace

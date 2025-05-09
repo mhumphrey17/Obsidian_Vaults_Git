@@ -1,8 +1,8 @@
 ---
 title: "Theoretical Foundations of Determinants"
 aliases: ["determinant theory", "axiomatic determinants"]
-tags: ["topic", "algebra-s2", "ch-02", "determinant", "theory"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "topic", "determinant", "theory", "axiomatic", "multilinearity", "alternating-property", "characterization", "product-formula", "linear-operator", "similar-matrices", "permutation", "eigenvalue", "cayley-hamilton-theorem", "linear-algebra", "matrix-theory"]
+related_concepts: ["Determinant", "Characterization of Determinants", "Multilinearity of Determinants", "Alternating Property of Determinants", "Product Formula for Determinants", "Determinant of a Linear Operator", "Similar Matrices", "Matrix Inverse", "Adjugate Matrix", "Cofactor", "Minor", "Cramer's Rule", "Eigenvalue", "Cayley-Hamilton Theorem", "Permutation", "Laplace Expansion", "Field", "Vector Space", "Linear Map"]
 ---
 
 # Theoretical Foundations of Determinants

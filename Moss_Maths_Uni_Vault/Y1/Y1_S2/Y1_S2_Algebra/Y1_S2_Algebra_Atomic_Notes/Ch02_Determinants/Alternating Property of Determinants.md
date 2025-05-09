@@ -1,9 +1,8 @@
 ---
 title: "Alternating Property of Determinants"
 aliases: ["alternating property", "skew-symmetry of determinants"]
-tags: ["concept", "Y1_Alg_s2_ch02_02", "determinant", "property"]
-related_concepts: ["Determinant", "Multilinearity of Determinants", "Elementary Row Operation", "Elementary Column Operation"]
-date_created: 2025-05-09
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-2", "concept", "determinant", "property", "multilinearity", "elementary-row-operation", "elementary-column-operation", "linear-algebra", "matrix-theory"]
+related_concepts: ["Determinant", "Multilinearity of Determinants", "Elementary Row Operation", "Elementary Column Operation", "Field"]
 ---
 
 # Alternating Property of Determinants

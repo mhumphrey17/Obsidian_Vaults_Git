@@ -1,10 +1,8 @@
 ---
 title: "Spanning Set"
-aliases: ["Spanning Sets", "Spans"]
-tags: [concept, algebra-s2, ch-1, sec-1-4]
-related_concepts: ["Vector Space", "Linear Combination", "Basis", "Linear Independence", "Span"]
-formula: "S \\text{ spans } V \\iff \\langle S \\rangle = V"
-date_created: 2025-05-09
+aliases: ["Spanning Sets", "Spans"] 
+tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "vector-space", "linear-combination", "basis", "linear-independence", "span", "dimension", "linear-algebra"]
+related_concepts: ["Vector Space", "Linear Combination", "Basis", "Linear Independence", "Span", "Dimension", "Field"]
 ---
 
 # Spanning Set
