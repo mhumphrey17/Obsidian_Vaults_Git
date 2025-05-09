@@ -31,5 +31,35 @@
   "smart_notices": {
     "muted": {}
   },
-  "excluded_headings": ""
+  "excluded_headings": "",
+  "smart_contexts": {
+    "link_depth": 0,
+    "inlinks": false,
+    "excluded_headings": [],
+    "max_len": 0,
+    "templates": {
+      "0": {
+        "before": "{{ITEM_PATH}}\n```{{ITEM_EXT}}",
+        "after": "```"
+      },
+      "1": {
+        "before": "REF: {{ITEM_NAME}}\n```{{ITEM_EXT}}",
+        "after": "```"
+      },
+      "-1": {
+        "before": "{{FILE_TREE}}"
+      }
+    }
+  },
+  "connections_pro": {
+    "footer_connections": true,
+    "should_rank": true,
+    "rank_model": {
+      "adapter": "cohere",
+      "cohere": {
+        "model_key": "rerank-v3.5",
+        "api_key": "zpvIYfISqU1F8EwqyajoOcNWgQBqgYmXYUJaZ71E"
+      }
+    }
+  }
 }

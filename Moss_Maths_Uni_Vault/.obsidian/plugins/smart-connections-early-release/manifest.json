@@ -1,0 +1,10 @@
+{
+  "id": "smart-connections-early-release",
+  "name": "Smart Connections Early Release",
+  "version": "1.0.9",
+  "minAppVersion": "0.12.0",
+  "description": "Smart Connections Early Release",
+  "author": "🌴 Brian",
+  "authorUrl": "https://smartconnections.app",
+  "isDesktopOnly": false
+}

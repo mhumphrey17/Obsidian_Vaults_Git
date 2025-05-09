@@ -1,0 +1,12 @@
+.search-result-container {
+  /* Smooth fold/unfold transition */
+  overflow: hidden;
+  transition: max-height 0.3s ease-in-out, opacity 0.2s ease-in-out;
+  max-height: 9999px;
+  opacity: 1;
+}
+
+.search-result-container.sc-folded {
+  max-height: 0;
+  opacity: 0;
+}

@@ -1,6 +1,8 @@
 [
   "mcp-tools",
-  "smart-connections",
   "templater-obsidian",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "smart-plugins",
+  "smart-connections",
+  "smart-connections-early-release"
 ]
