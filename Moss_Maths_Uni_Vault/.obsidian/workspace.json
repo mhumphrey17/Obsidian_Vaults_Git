@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "c13581d569bfbefa",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b402b8e74445bc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccd21693e779d267",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Topic_Notes/Ch02_Determinants/Determinants and Inverses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Determinants and Inverses"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7419f15f45e259b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0c22ef09be53d55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "915d57025de6e176",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "67cf751dd846ad1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "802752c3f5be2a8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.5
+  },
+  "right": {
+    "id": "8e16021470e04edb",
+    "type": "split",
+    "children": [
+      {
+        "id": "183403e0b8fcad32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bfe9503f5002821",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "fe560f0f1b7efced",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "101009382429f1e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "addc22a95b2a2de2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "ccd21693e779d267",
+  "lastOpenFiles": [
+    "Y1/00_Meta/README.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Meta/AI_README.md",
+    "Y1/Y1_S2/Y1_S2_Algebra",
+    "Y1/Y1_S2",
+    "Y1",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Topic_Notes/Ch01_VectorSpaces/Bases, Independence, and Dimension.md",
+    "00_Meta/Glossary.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Topic_Notes/Ch01_VectorSpaces/Linear Maps, Kernels, and Images.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Topic_Notes/Ch01_VectorSpaces/Matrix Representation and Change Of Basis.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Topic_Notes/Ch01_VectorSpaces/Rank, Nullity, and Their Applications.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Topic_Notes/Ch01_VectorSpaces/Vector Spaces And Subspaces.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Topic_Notes/Ch01_VectorSpaces/Vector Spaces Linear Maps Bases.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Topic_Notes/Ch02_Determinants/Matrix Inversion and Determinants.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/PS01/PS01-Q01.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch02_Determinants/Determinant Properties Under Elementary Operations.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch02_Determinants/Determinant.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch02_Determinants/Characterization of Determinants.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch02_Determinants/Alternating Property of Determinants.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch02_Determinants/Adjugate Matrix.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch01_VectorSpaces/Kernel.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch01_VectorSpaces/Coordinate Vector.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch02_Determinants/Similar Matrices and Determinants.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch02_Determinants/Triangular Matrix.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch02_Determinants/Permutation Matrix.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch02_Determinants/Laplace Expansion.md",
+    "_Templates/Atomic_Note.md",
+    "_Templates/Problem.md",
+    "_Templates/Solution.md",
+    "_Templates/Topic_Note.md",
+    "Github_Obsidian_Vaults/Algebra_S2_Vault",
+    "Github_Obsidian_Vaults",
+    "Untitled.canvas",
+    "_Templates",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Practice_Collections/ByDifficulty",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Practice_Collections/ByTopic",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Practice_Collections",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/PS02"
+  ]
+}
