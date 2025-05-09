@@ -29,10 +29,10 @@ This Map of Content (MOC) serves as the central navigation hub for the Algebra S
 - [[02.4 Minors, Adjugates and Inverses]]
 
 ### 3. Eigenvalues and Diagonalisation
-- 03.1 Eigenvalues and Characteristic Polynomials of Square Matrices
-- 03.2 Eigenvalues of Linear Operators
-- 03.3 Diagonalisation
-- 03.4 Multiplicities of Eigenvalues and Diagonalisation
+- [[03.1 Eigenvalues and Characteristic Polynomials]]
+- [[03.2 Eigenvalues of Linear Operators]]
+- [[03.3 Diagonalisation]]
+- [[03.4 Multiplicities of Eigenvalues and Diagonalisation]]
 
 ### 4. Inner Product Spaces
 - 04.1 Inner Products
@@ -45,16 +45,23 @@ This Map of Content (MOC) serves as the central navigation hub for the Algebra S
 ## Topic Summaries
 
 ### Chapter 1
-- [[Topic_VectorSpacesAndSubspaces]]
-- [[Topic_LinearMapsAndProperties]]
-- [[Topic_BasesAndIndependence]]
-- [[Topic_MatrixRepresentations]]
-- [[Topic_RankAndNullity]]
+- [[Vector Spaces And Subspaces]]
+- [[Linear Maps, Kernels, and Images]]
+- [[Bases, Independence, and Dimension]]
+- [[Matrix Representation and Change Of Basis]]
+- [[Rank, Nullity, and Their Applications]]
 
 ### Chapter 2
-- [[Topic_DeterminantsIntroduction]]
-- [[Topic_DeterminantProperties]]
-- [[Topic_MatrixInverses]]
+- [[Theoretical Foundations of Determinants]]
+- [[Determinant Calculation Methods]]
+- [[Determinants and Inverses]]
+- [[Matrix Inversion and Determinants]]
+
+### Chapter 3
+- [[Eigenvalues and Characteristic Polynomials]]
+- [[Eigenvalues of Linear Operators]]
+- [[Diagonalisation]]
+- [[Multiplicities and Diagonalisation Criteria]]
 
 ## Problem Sheets
 - [[Problem Sheet 1]]
@@ -65,5 +72,10 @@ This Map of Content (MOC) serves as the central navigation hub for the Algebra S
 - [[Problems by Difficulty]]
 
 ## Reference
-- [[Glossary]]
 - [[Tags Index]]
+
+## Course Structure
+- Semester: Y1_S2
+- Course Code: Y1_S2_Algebra
+- Prerequisites: Linear Algebra basics, Vector spaces
+- Next Course: Y2_Algebra

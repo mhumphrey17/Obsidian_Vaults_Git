@@ -93,3 +93,6 @@ This page provides an overview of all tags used in the Algebra_S2_Vault, organiz
 - #proof - Proof techniques and examples
 - #definition - Key definitions
 - #property - Important properties
+- #remark - Remarks in lecture notes
+- #problemsheet-question - Problem Sheet Questions
+- #problemsheet-solution - Problem Sheet Solutions
