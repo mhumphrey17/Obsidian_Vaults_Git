@@ -11,14 +11,10 @@
             "id": "ccd21693e779d267",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 4/PS04-Q01.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PS04-Q01"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -170,6 +166,24 @@
   },
   "active": "ccd21693e779d267",
   "lastOpenFiles": [
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 5/PS05-Q08-Solution.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 5/PS05-Q08.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 5/PS05-Q07-Solution.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 5/PS05-Q07.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 4/PS04-Q01.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 5/PS05-Q06-Solution.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 5/PS05-Q06.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 5/PS05-Q05-Solution.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 5/PS05-Q05.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 5/PS05-Q04-Solution.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 5/PS05-Q04.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 5/PS05-Q03-Solution.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 5/PS05-Q03.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 5/PS05-Q02-Solution.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 5/PS05-Q02.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 5/PS05-Q01-Solution.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 5/PS05-Q01.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 5",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 4/PS04-Q07-Solution.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 4/PS04-Q07.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 4/PS04-Q06-Solution.md",
@@ -179,24 +193,7 @@
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 4/PS04-Q01-Solution.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 4/PS04-Q02.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 4/PS04-Q02-Solution.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 4/PS04-Q03.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 4/PS04-Q03-Solution.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 4/PS04-Q04.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 4/PS04-Q04-Solution.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 3/PS03-Q03.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 4/PS04-Q01.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 4/README.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 4",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 3/PS03-Q03-Solution.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 3/PS03-Q07-Solution.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 3/PS03-Q07.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 3/PS03-Q06-Solution.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 3/PS03-Q06.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 3/PS03-Q05-Solution.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 3/PS03-Q05.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 3/PS03-Q04-Solution.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 3/PS03-Q04.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 3/PS03-Q02-Solution.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Problem_Sheets/Problem Sheet Week 3",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Topic_Notes/Ch05_LinearOperatorsOnInnerProductSpaces",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch05_LinearOperatorsOnInnerProductSpaces",
@@ -205,7 +202,6 @@
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Topic_Notes/Ch03_Eigenvalues",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch03_Eigenvalues",
     "Y1/Y1_S2/Y1_S2_Algebra",
-    "Y1/Y1_S2",
     "Untitled.canvas"
   ]
 }
