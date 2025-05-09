@@ -11,10 +11,14 @@
             "id": "ccd21693e779d267",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch05_LinearOperatorsOnInnerProductSpaces/Singular Values.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Singular Values"
             }
           }
         ]
@@ -166,6 +170,23 @@
   },
   "active": "ccd21693e779d267",
   "lastOpenFiles": [
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch05_LinearOperatorsOnInnerProductSpaces/Unitary Transformation.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Topic_Notes/Ch05_LinearOperatorsOnInnerProductSpaces/Linear Operators on Inner Product Spaces.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Topic_Notes/Ch05_LinearOperatorsOnInnerProductSpaces",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch05_LinearOperatorsOnInnerProductSpaces/Singular Value Decomposition.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch05_LinearOperatorsOnInnerProductSpaces/Singular Values.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch05_LinearOperatorsOnInnerProductSpaces/Hermitian.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Practice_Collections/ByTopic/README.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch05_LinearOperatorsOnInnerProductSpaces/Spectral Theorem.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch05_LinearOperatorsOnInnerProductSpaces/Orthogonally Diagonalizable.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch05_LinearOperatorsOnInnerProductSpaces/Normal.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch05_LinearOperatorsOnInnerProductSpaces/Invariant Subspace.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch05_LinearOperatorsOnInnerProductSpaces/Orthogonal Transformation.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch05_LinearOperatorsOnInnerProductSpaces/Symmetric.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch05_LinearOperatorsOnInnerProductSpaces/Skew-adjoint.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch05_LinearOperatorsOnInnerProductSpaces/Self-adjoint.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch05_LinearOperatorsOnInnerProductSpaces/Adjoint.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch05_LinearOperatorsOnInnerProductSpaces",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_MOC.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Topic_Notes/Ch04_InnerProductSpaces/Orthogonality.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Topic_Notes/Ch04_InnerProductSpaces/Inner Products.md",
@@ -178,30 +199,13 @@
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch04_InnerProductSpaces/Orthogonal Direct Sum.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch04_InnerProductSpaces/Orthogonal Complement.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch04_InnerProductSpaces/QR Decomposition.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch04_InnerProductSpaces/Gram-Schmidt Orthogonalization.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch04_InnerProductSpaces/Orthonormal Basis.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch04_InnerProductSpaces/Orthonormal List.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch04_InnerProductSpaces/Parallelogram Identity.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch04_InnerProductSpaces/Pythagoras Theorem.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch04_InnerProductSpaces/Triangle Inequality.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch04_InnerProductSpaces/Cauchy-Schwarz Inequality.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch04_InnerProductSpaces/Conjugate Linear Map.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch04_InnerProductSpaces/Orthogonality.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch04_InnerProductSpaces/Inner Product Space.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch04_InnerProductSpaces",
-    "AI_README.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Tags_Index.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Topic_Notes/Ch03_Eigenvalues/Diagonalisation.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Topic_Notes/Ch03_Eigenvalues/Eigenvalues and Characteristic Polynomials.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch03_Eigenvalues/Diagonalisable Linear Operator.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Topic_Notes/Ch03_Eigenvalues",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch03_Eigenvalues",
     "Y1/Y1_S2/Y1_S2_Algebra",
     "Y1/Y1_S2",
     "Y1",
     "Github_Obsidian_Vaults/Algebra_S2_Vault",
-    "Github_Obsidian_Vaults",
-    "Untitled.canvas",
-    "_Templates"
+    "Untitled.canvas"
   ]
 }
