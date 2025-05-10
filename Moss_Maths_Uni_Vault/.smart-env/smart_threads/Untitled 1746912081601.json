@@ -1,0 +1,203 @@
+{
+  "path": ".smart-env/smart_threads/Untitled 1746912081601.json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1746912081601,
+  "responses": {
+    "chatcmpl-BVlvKZvAPXRbPdFDSG8pm5xpKt9Z0": {
+      "id": "chatcmpl-BVlvKZvAPXRbPdFDSG8pm5xpKt9Z0",
+      "object": "chat.completion",
+      "created": 1746912086,
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": null,
+            "tool_calls": [
+              {
+                "id": "call_P3J0feuWXZYmzZToJ9KjwT3d",
+                "type": "function",
+                "function": {
+                  "name": "lookup",
+                  "arguments": "{\"hypotheticals\":{\"1\":\"Eigenvalues are scalars associated with a square matrix that indicate how much the eigenvectors are stretched or compressed during the linear transformation represented by the matrix.\",\"2\":\"To find eigenvalues, solve the characteristic equation det(A - λI) = 0, where A is the matrix, λ represents eigenvalues, and I is the identity matrix.\",\"3\":\"When revising for questions on eigenvalues, practice solving characteristic equations, understand the geometric interpretation of eigenvalues and eigenvectors, and review properties such as the sum and product of eigenvalues related to the trace and determinant of the matrix.\"}}"
+                }
+              }
+            ]
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 107,
+        "completion_tokens": 128,
+        "total_tokens": 235,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "raw": {
+        "id": "chatcmpl-BVlvKZvAPXRbPdFDSG8pm5xpKt9Z0",
+        "object": "chat.completion",
+        "created": 1746912086,
+        "model": "gpt-4.1-mini-2025-04-14",
+        "choices": [
+          {
+            "index": 0,
+            "message": {
+              "role": "assistant",
+              "content": null,
+              "tool_calls": [
+                {
+                  "id": "call_P3J0feuWXZYmzZToJ9KjwT3d",
+                  "type": "function",
+                  "function": {
+                    "name": "lookup",
+                    "arguments": "{\"hypotheticals\":{\"1\":\"Eigenvalues are scalars associated with a square matrix that indicate how much the eigenvectors are stretched or compressed during the linear transformation represented by the matrix.\",\"2\":\"To find eigenvalues, solve the characteristic equation det(A - λI) = 0, where A is the matrix, λ represents eigenvalues, and I is the identity matrix.\",\"3\":\"When revising for questions on eigenvalues, practice solving characteristic equations, understand the geometric interpretation of eigenvalues and eigenvectors, and review properties such as the sum and product of eigenvalues related to the trace and determinant of the matrix.\"}}"
+                  }
+                }
+              ],
+              "refusal": null,
+              "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+          }
+        ],
+        "usage": {
+          "prompt_tokens": 107,
+          "completion_tokens": 128,
+          "total_tokens": 235,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "service_tier": "default",
+        "system_fingerprint": "fp_38647f5e19"
+      }
+    }
+  },
+  "messages": {
+    "user-1-1746912086322-1": 1,
+    "assistant-2-1746912088151-1": 2,
+    "tool-3-1": 3
+  },
+  "branches": {},
+  "class_name": "SmartThread2",
+  "key": "Untitled 1746912081601",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1746912081601",
+      "content": [
+        {
+          "type": "text",
+          "text": "based on my notes can you summarise eigenvalues and how to revise for questions about them?"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1746912086322-1",
+      "context": {
+        "has_self_ref": true
+      },
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1746912086322-1",
+      "key": "Untitled 1746912081601#user-1-1746912086322-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1746912081601",
+      "content": null,
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "id": "call_P3J0feuWXZYmzZToJ9KjwT3d",
+          "type": "function",
+          "function": {
+            "name": "lookup",
+            "arguments": "{\"hypotheticals\":{\"1\":\"Eigenvalues are scalars associated with a square matrix that indicate how much the eigenvectors are stretched or compressed during the linear transformation represented by the matrix.\",\"2\":\"To find eigenvalues, solve the characteristic equation det(A - λI) = 0, where A is the matrix, λ represents eigenvalues, and I is the identity matrix.\",\"3\":\"When revising for questions on eigenvalues, practice solving characteristic equations, understand the geometric interpretation of eigenvalues and eigenvectors, and review properties such as the sum and product of eigenvalues related to the trace and determinant of the matrix.\"}}"
+          }
+        }
+      ],
+      "tool_call_id": null,
+      "msg_i": 2,
+      "id": "assistant-2-1746912088151-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "chatcmpl-BVlvKZvAPXRbPdFDSG8pm5xpKt9Z0",
+      "branch_i": "1746912088151-1",
+      "key": "Untitled 1746912081601#assistant-2-1746912088151-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1746912081601",
+      "content": null,
+      "role": "tool",
+      "tool_calls": null,
+      "tool_call_id": "call_P3J0feuWXZYmzZToJ9KjwT3d",
+      "msg_i": 3,
+      "id": "tool-3-1",
+      "context": {},
+      "tool_call_output": [],
+      "class_name": "SmartMessage",
+      "tool_name": "lookup",
+      "response_id": "call_P3J0feuWXZYmzZToJ9KjwT3d",
+      "key": "Untitled 1746912081601#tool-3-1"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "smart-chat",
+  "name": "Smart Chat (Experimental Access)",
+  "version": "0.1.9",
+  "minAppVersion": "0.13.0",
+  "description": "Experimental access to the new Smart Chat. Please report bugs in the Supporter Chat.",
+  "author": "🌴 Brian",
+  "authorUrl": "https://smartconnections.app",
+  "isDesktopOnly": false
+}

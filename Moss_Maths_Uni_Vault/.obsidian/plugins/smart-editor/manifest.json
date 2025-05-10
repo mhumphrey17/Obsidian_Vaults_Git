@@ -1,0 +1,10 @@
+{
+  "id": "smart-editor",
+  "name": "Smart Editor (Very Experimental)",
+  "version": "1.0.23",
+  "minAppVersion": "1.8.0",
+  "description": "Adds 'Generate Draft' command and change review UI. Like in Cursor for Obsidian!",
+  "author": "🌴 Brian",
+  "authorUrl": "https://smartconnections.app",
+  "isDesktopOnly": true
+}

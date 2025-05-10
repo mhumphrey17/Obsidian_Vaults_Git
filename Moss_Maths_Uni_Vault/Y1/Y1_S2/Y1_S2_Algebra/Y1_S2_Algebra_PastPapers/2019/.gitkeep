@@ -1,0 +1,9 @@
+# 2019 Past Paper Directory
+
+This directory contains the processed notes for the 2019 MATH202 Algebra past paper.
+
+## Structure
+- Question notes: 2019-Q[XX].md
+- Solution notes: 2019-Q[XX]-Solution.md
+- Analysis notes: 2019-Q[XX]-Analysis.md
+- Whole paper analysis: 2019-Past-Paper-Analysis.md

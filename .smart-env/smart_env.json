@@ -1,0 +1,59 @@
+{
+  "smart_blocks": {
+    "embed_model": {
+      "model_key": "TaylorAI/bge-micro-v2"
+    },
+    "embed_blocks": true,
+    "min_chars": 200
+  },
+  "smart_sources": {
+    "embed_model": {
+      "model_key": "TaylorAI/bge-micro-v2",
+      "transformers": {
+        "model_key": "TaylorAI/bge-micro-v2",
+        "legacy_transformers": true
+      },
+      "adapter": "openai",
+      "openai": {
+        "model_key": "text-embedding-3-small",
+        "api_key": "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"
+      }
+    },
+    "min_chars": 20
+  },
+  "file_exclusions": "Untitled",
+  "folder_exclusions": "smart-chats",
+  "smart_actions": {
+    "alignment": {}
+  },
+  "smart_action_groups": {
+    "notes-v1": {
+      "actions": {}
+    },
+    "notes-v2": {
+      "actions": {}
+    },
+    "transcribe-v1": {
+      "actions": {}
+    },
+    "custom-0": {
+      "actions": {
+        "list_folders": {
+          "active": true
+        },
+        "find_connections": {
+          "active": true
+        },
+        "read": {
+          "active": true
+        }
+      },
+      "add_action_to_group": "alignment",
+      "gpt_id": "temp_for_shortened_openapi_paths"
+    }
+  },
+  "is_obsidian_vault": true,
+  "excluded_headings": "",
+  "sc_app_input_tokens": 555,
+  "sc_app_output_tokens": 351152
+}

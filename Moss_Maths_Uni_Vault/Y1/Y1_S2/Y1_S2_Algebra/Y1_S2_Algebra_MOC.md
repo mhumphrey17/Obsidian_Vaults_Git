@@ -78,3 +78,27 @@ This Map of Content (MOC) serves as the central navigation hub for the Algebra S
 - Course Code: Y1_S2_Algebra
 - Prerequisites: Linear Algebra basics, Vector spaces
 - Next Course: Y2_Algebra
+# # Course Structure
+
+
+## Past Papers and Exam Analysis
+
+### Individual Year Analyses
+- [[2019 Past Paper Analysis]]
+- [[2020 Past Paper Analysis]]
+- [[2021 Past Paper Analysis]]
+- [[2022 Past Paper Analysis]]
+- [[2023 Past Paper Analysis]]
+
+### Cross-Paper Analysis (2019-2023)
+- [[Cross-Paper Analysis 2019-2023]]
+- [[Frequently Tested Concepts]]
+- [[Topic Evolution 2019-2023]]
+- [[Strategic Study Guide]]
+
+### Exam Preparation Resources
+- High-frequency topic lists
+- Question archetype patterns
+- Time management strategies
+- Common pitfall guides
+
