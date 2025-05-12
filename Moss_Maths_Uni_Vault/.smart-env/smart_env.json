@@ -2,7 +2,7 @@
   "is_obsidian_vault": true,
   "smart_blocks": {
     "embed_blocks": true,
-    "min_chars": 200
+    "min_chars": 100
   },
   "smart_sources": {
     "single_file_data_path": ".smart-env/smart_sources.json",
@@ -16,9 +16,10 @@
       "TaylorAI/bge-micro-v2": {},
       "openai": {
         "model_key": "text-embedding-3-large",
-        "api_key": "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"
+        "api_key": "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"
       },
-      "text-embedding-3-small": {}
+      "text-embedding-3-small": {},
+      "text-embedding-3-large": {}
     },
     "vision_source_adapter": {
       "chat_model": {

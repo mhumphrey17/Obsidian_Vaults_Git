@@ -1,0 +1,26 @@
+{
+  "pluginList": [
+    "coddingtonbear/obsidian-local-rest-api",
+    "brianpetro/obsidian-smart-connections"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "coddingtonbear/obsidian-local-rest-api",
+      "version": "latest"
+    },
+    {
+      "repo": "brianpetro/obsidian-smart-connections",
+      "version": "latest"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": ""
+}

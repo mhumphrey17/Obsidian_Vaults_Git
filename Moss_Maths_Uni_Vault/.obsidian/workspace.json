@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_PastPapers/2019/2019-Q01-Solution.md",
+                "file": "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_PastPapers/2022/2022-Individual-Question-Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2019-Q01-Solution"
+              "title": "2022-Individual-Question-Analysis"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 273.5
   },
   "right": {
     "id": "8e16021470e04edb",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_PastPapers/2019/2019-Q01-Solution.md",
+                "file": "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch03_Eigenvalues/Diagonalisable Linear Operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2019-Q01-Solution"
+              "title": "Backlinks for Diagonalisable Linear Operator"
             }
           },
           {
@@ -155,8 +155,8 @@
             "state": {
               "type": "smart-lookup-view",
               "state": {},
-              "icon": "search",
-              "title": "Smart Lookup"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -174,10 +174,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 438.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -189,8 +191,21 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "1ae02d9dfd120f49",
+  "active": "ccd21693e779d267",
   "lastOpenFiles": [
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_PastPapers/Cross_Paper_Analysis/Topic-Evolution-2019-2023.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_PastPapers/2021/2021-Full-Paper-Analysis.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_PastPapers/2022/2022-Past-Paper-MOC.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch03_Eigenvalues/Diagonalisable Linear Operator.md",
+    "Prompts/README.md",
+    "Prompts",
+    "temp_plugin_zips/brianpetro_smart-connections-early-obsidian-1746943961697.zip",
+    "temp_plugin_zips",
+    "Prompts/index.ts",
+    "Prompts",
+    "Prompts/welcome.md",
+    "Prompts",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_PastPapers/2019/2019-Q01-Solution.md",
     "comprehensive_past_paper_processing_prompt.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_PastPapers/2019/2019-Q06-Analysis.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Sum_and_Intersection_of_Subspaces/Q26_Verifying_Dimension_Formula_M22.md",
@@ -211,22 +226,9 @@
     "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Linear_Independence/Q15_Linear_Dependence_R3.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Linear_Independence",
     "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Spanning_and_Subspaces/Q14_Equality_Spanned_Subspaces.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Spanning_and_Subspaces",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_MOC.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Subspaces/Q13_Subspaces_Function_Spaces.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Subspaces/Q12_Subspaces_Polynomial_Spaces.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Subspaces/Q11_Subspaces_Matrix_Spaces.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Subspaces/Q10_Plane_Through_Origin_Subspace.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Subspaces/Q09_Subspace_Equal_Entries_R3.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Subspaces",
-    "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Spanning_Sets/Q08_Spanning_M22_Matrix_Units.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Spanning_Sets/Q07_Powers_of_t_minus_c_Spanning.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Spanning_Sets/Q06_Spanning_Polynomials_Pn.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Spanning_Sets/Q05_Vectors_Not_Spanning_R3.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Spanning_Sets",
-    "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Linear_Combinations",
-    "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces",
-    "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions",
     "Untitled.canvas"
   ]
 }

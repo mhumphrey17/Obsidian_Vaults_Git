@@ -1,6 +1,6 @@
 ---
 title: "Span"
-aliases: ["Linear Span", "Spanning Set"] # Note: "Spanning Set" is also a separate note title, consider if this alias is still needed or if they should be more distinct.
+aliases: ["Linear Span", "Spanning Set"] 
 tags: ["Y1", "Y1_S2_Algebra", "Y1_S2_Algebra_ch-1", "concept", "vector-space", "subspace", "linear-combination", "basis", "linear-independence", "dimension", "spanning-set", "linear-algebra"]
 related_concepts: ["Vector Space", "Subspace", "Linear Combination", "Basis", "Linear Independence", "Dimension", "Spanning Set", "Field"]
 ---
