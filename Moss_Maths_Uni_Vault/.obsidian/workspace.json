@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_PastPapers/2022/2022-Individual-Question-Analysis.md",
+                "file": "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_PastPapers/2023/2023-Q01-Solution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2022-Individual-Question-Analysis"
+              "title": "2023-Q01-Solution"
             }
           }
         ]
@@ -193,9 +193,13 @@
   },
   "active": "ccd21693e779d267",
   "lastOpenFiles": [
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_PastPapers/2022/2022-Q07-Solution.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_PastPapers/2022/2022-Past-Paper-MOC.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_PastPapers/2023/2023-Past-Paper-MOC.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_PastPapers/2021/2021-Q06-Analysis.md",
+    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_PastPapers/2022/2022-Individual-Question-Analysis.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_PastPapers/Cross_Paper_Analysis/Topic-Evolution-2019-2023.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_PastPapers/2021/2021-Full-Paper-Analysis.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_PastPapers/2022/2022-Past-Paper-MOC.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_Atomic_Notes/Ch03_Eigenvalues/Diagonalisable Linear Operator.md",
     "Prompts/README.md",
     "Prompts",
@@ -225,10 +229,6 @@
     "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Linear_Independence/Q16_Linear_Independence_R3.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Linear_Independence/Q15_Linear_Dependence_R3.md",
     "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Linear_Independence",
-    "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Spanning_and_Subspaces/Q14_Equality_Spanned_Subspaces.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Y1_S2_Algebra_MOC.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Subspaces/Q13_Subspaces_Function_Spaces.md",
-    "Y1/Y1_S2/Y1_S2_Algebra/Practice_Questions/Ch4_Vector_Spaces/Subspaces/Q12_Subspaces_Polynomial_Spaces.md",
     "Untitled.canvas"
   ]
 }
